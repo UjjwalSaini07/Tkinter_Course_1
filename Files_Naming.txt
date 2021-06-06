@@ -1,0 +1,28 @@
+This is a Text file Which help You to Relate the Course_1 of Tkinter in python
+#todo : These are Exercises
+Exercise_1 - Creating Newspaper GUI
+Exercise_2 - Window Resizer GUI
+#todo : Mini Projects
+Project_1 - Simple Calculator
+Project_2 - Notepad
+#todo : These are Programs
+Tkinter_1 - Label, Geometry, Maxsize & Minsize
+Tkinter_2 - Displaying Images Using Label
+Tkinter_3 - Attributes Of Label & Pack
+Tkinter_4 - Frame In Tkinter {Todo: Important}
+Tkinter_5 - Packing Buttons In Tkinter
+Tkinter_6 - Entry Widget & Grid Layout In Tkinter
+Tkinter_7 - Travel Form Using Checkbuttons & Entry Widget
+Tkinter_8 - Accepting User Input In Tkinter Form {Todo: Very Important}
+Tkinter_9 - Canvas Widget In Python Tkinter
+Tkinter_10 - Handling Events In Tkinter GUI
+Tkinter_11 - Menus & Submenus In Tkinter Python
+Tkinter_12 - Message Box In Tkinter Python
+Tkinter_13 - Sliders In Tkinter Using Scale()
+Tkinter_14 - Creating RadioButtons In Tkinter
+Tkinter_15 - ListBox In Tkinter
+Tkinter_16 - ScrollBar In Tkinter GUI
+Tkinter_17 - Status Bar In Tkinter
+Tkinter_18 - Using Classes And Objects To Create GUIs
+Tkinter_19 - More Tkinter Tips, Tricks & Functions
+Tkinter_20 - Nothing In This Program
